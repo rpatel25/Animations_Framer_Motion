@@ -1,8 +1,11 @@
-# React + Vite
+Animating React Apps using Framer Motion library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - Animating between Conditional Values
+  - Entry and Exit animations (initial, animate, exit states)
+  - Hover animations
+  - Nested animations (AnimatePresence) and Variants
+  - Staggered Lists, Keyframes
+  - Imperative Animations (useAnimate hook)
+  - Animating Layout changes, Shared elements, Multi-elements
+  - Re-trigger animations via Keys
+  - Scroll-based animations (useScroll and useTransform hooks)
